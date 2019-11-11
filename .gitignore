@@ -57,5 +57,8 @@ typings/
 # dotenv environment variables file
 .env
 
+# ignoring my passwords folder
+passwords/
+
 # next.js build output
 .next
